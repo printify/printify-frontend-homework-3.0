@@ -1,6 +1,6 @@
 # CodingTask: Vending Machine
 
-Inside the angular app in the src directory find a generated component `VendingMachine`. Use your initiative to build a functioning visual respresentation of a vending machine.
+Inside the angular app in the src directory use your initiative to build a functioning visual respresentation of a vending machine.
 
 [Angular Material](https://material.angular.io/components/categories) is installed if you wish to use it.
 
