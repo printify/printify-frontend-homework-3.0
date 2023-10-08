@@ -18,17 +18,6 @@ Inside the angular app in the src directory find a generated component `VendingM
 
 3. Then the machine gives out the change in the least possible amount of coins. (Ex: `50 50 20 5 2 1`)
 
-<!-- 1. Create a component with a list of 3 clickable items:
-    - product A (price: 0.95 USD)
-    - product B (price: 1.26 USD)
-    - product C (price: 0.95 USD)
-2. Add a form input "Input amount (USD)"
-3. Display last-bought product, and change given
-    - in coin denominations (1, 2, 5, 10, 20, 50 cents and 1 dollar)
-    - with the least number of coins possible
-4. Display an error and prevent purchases if the input amount is too low -->
-
-
 -------------------
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
